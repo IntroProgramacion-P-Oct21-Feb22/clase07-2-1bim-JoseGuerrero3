@@ -19,7 +19,7 @@ package ejemplos02;
 public class Ejemplo01 {
 
     public static void main(String[] args) {
-        int contador = 1;
+        int contador = 2;
         do {
             contador = contador + 1;
         } while (contador <= 10);
